@@ -8,7 +8,7 @@ Stable tag: 1.4.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-To make your blog layout more attractive and colorful.
+To make your blog layout more attractive and colorfull.
 
 == Description ==
 
@@ -31,13 +31,11 @@ If you want private or priority support, please [donate](http://weblumia.com/don
 == Installation ==
 
 1.     Via WordPress Admin > Plugins > Add New, Upload the wp-blog-layouts.zip file
-2.     Alternately, via FTP, uploadBlog Layout directory to the /wp-content/plugins/ directory
+2.     Alternately, via FTP, upload Blog Layout directory to the /wp-content/plugins/ directory
 3.     Activate the 'Blog Layout' plugin after uploading or through WordPress Admin > Plugins
 
 Usage
 
-1. Use it to pull content from Facebook pages, Twitter, LinkedIn, YouTube and other social networks
-2. To display social media stream on page or posts
 
 == Frequently asked questions ==
 
