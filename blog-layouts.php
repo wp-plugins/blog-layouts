@@ -3,7 +3,7 @@
 	Plugin Name: Blog Layouts
 	Plugin URI: http://weblumia.com/wp-blog-layouts/
 	Description: To make your blog layout more attractive and colorful.
-	Version: 1.4.1
+	Version: 1.4.2
 	Author: Jinesh.P.V
 	Author URI: http://weblumia.com/wp-blog-layouts/
 	License: GPLv2 or later
